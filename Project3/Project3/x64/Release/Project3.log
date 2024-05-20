@@ -1,0 +1,764 @@
+﻿  main.cpp
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(121,59): warning C4244: '=': conversion from 'sf::Int32' to 'float', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(248,59): warning C4244: '=': conversion from 'sf::Int32' to 'float', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(416,46): warning C4244: '=': conversion from 'sf::Int32' to 'float', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(421,205): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(421,150): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(421,116): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(421,79): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(429,172): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(429,141): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(429,84): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(429,47): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(437,158): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(437,103): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(437,69): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(437,57): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(442,157): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(442,126): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(442,69): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(442,57): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(882,28): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(894,52): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(894,38): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(914,31): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(923,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(932,33): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(942,38): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(993,22): warning C4244: 'initializing': conversion from 'sf::Int32' to 'float', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(1041,42): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(1049,19): warning C4244: 'initializing': conversion from 'sf::Int32' to 'float', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(1066,25): warning C4244: 'initializing': conversion from 'sf::Int32' to 'float', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(1084,26): warning C4244: 'initializing': conversion from 'sf::Int32' to 'float', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(1091,37): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(1102,27): warning C4244: 'initializing': conversion from 'sf::Int32' to 'float', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(1228,94): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(1228,65): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(1229,94): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(1229,65): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(1230,94): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(1230,65): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(1303,77): warning C4244: '=': conversion from 'sf::Int32' to 'float', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(1304,71): warning C4244: '=': conversion from 'sf::Int32' to 'float', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(1307,65): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(1314,82): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(1319,74): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(1402,59): warning C4244: '=': conversion from 'sf::Int32' to 'float', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(1425,37): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(1434,37): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(1459,117): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(1461,84): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(1481,119): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(1483,85): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(1503,117): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(1505,84): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(1650,86): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(1650,67): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(1677,89): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(1677,71): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(1691,82): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(1691,64): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(1708,69): warning C4244: '=': conversion from 'sf::Int32' to 'float', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(1808,64): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(1809,72): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(2007,28): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(2019,52): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(2019,38): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(2103,34): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(2117,39): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(2120,40): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(2168,22): warning C4244: 'initializing': conversion from 'sf::Int32' to 'float', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(2214,42): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(2222,19): warning C4244: 'initializing': conversion from 'sf::Int32' to 'float', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(2239,25): warning C4244: 'initializing': conversion from 'sf::Int32' to 'float', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(2258,26): warning C4244: 'initializing': conversion from 'sf::Int32' to 'float', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(2276,27): warning C4244: 'initializing': conversion from 'sf::Int32' to 'float', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(2351,94): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(2351,65): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(2352,94): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(2352,65): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(2353,94): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(2353,65): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(2428,61): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(2448,59): warning C4244: '=': conversion from 'sf::Int32' to 'float', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(2505,117): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(2507,84): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(2527,119): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(2529,85): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(2549,117): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(2551,84): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(2661,86): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(2661,67): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(2673,89): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(2673,71): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(2687,82): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(2687,64): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(2706,69): warning C4244: '=': conversion from 'sf::Int32' to 'float', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(2982,28): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(2994,52): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(2994,38): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(3014,37): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(3023,39): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(3032,33): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(3042,38): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(3093,22): warning C4244: 'initializing': conversion from 'sf::Int32' to 'float', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(3139,42): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(3147,19): warning C4244: 'initializing': conversion from 'sf::Int32' to 'float', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(3154,37): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(3165,31): warning C4244: 'initializing': conversion from 'sf::Int32' to 'float', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(3174,38): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(3186,29): warning C4244: 'initializing': conversion from 'sf::Int32' to 'float', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(3195,37): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(3206,27): warning C4244: 'initializing': conversion from 'sf::Int32' to 'float', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(3279,94): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(3279,65): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(3280,94): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(3280,65): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(3281,94): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(3281,65): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(3374,59): warning C4244: '=': conversion from 'sf::Int32' to 'float', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(3397,37): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(3406,37): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(3431,117): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(3433,84): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(3453,119): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(3455,85): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(3475,117): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(3477,84): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(3587,95): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(3587,76): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(3599,92): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(3599,74): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(3613,88): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(3613,70): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(3632,69): warning C4244: '=': conversion from 'sf::Int32' to 'float', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(4056,61): warning C4244: '=': conversion from 'sf::Int32' to 'float', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(4063,76): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(4063,9): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(4062,99): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(4076,75): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(4076,38): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(4075,61): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(4082,26): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(4090,61): warning C4244: '=': conversion from 'sf::Int32' to 'float', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(4097,76): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(4097,9): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(4096,99): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(4110,75): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(4110,38): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(4109,61): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(4135,79): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(4144,79): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(4153,79): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(4162,79): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  menu.cpp
+C:\Users\MoDo\source\repos\Project3\Project3\menu.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\MoDo\source\repos\Project3\Project3\menu.cpp(10,68): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\menu.cpp(10,44): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\menu.cpp(16,69): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\menu.cpp(16,44): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\menu.cpp(22,68): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\menu.cpp(22,44): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+sfml-window-s.lib(InputImpl.cpp.obj) : error LNK2001: unresolved external symbol __imp_GetAsyncKeyState
+sfml-window-s.lib(InputImpl.cpp.obj) : error LNK2001: unresolved external symbol __imp_GetSystemMetrics
+sfml-window-s.lib(InputImpl.cpp.obj) : error LNK2001: unresolved external symbol __imp_SetCursorPos
+sfml-window-s.lib(InputImpl.cpp.obj) : error LNK2001: unresolved external symbol __imp_GetCursorPos
+sfml-window-s.lib(InputImpl.cpp.obj) : error LNK2001: unresolved external symbol __imp_ClientToScreen
+sfml-window-s.lib(InputImpl.cpp.obj) : error LNK2001: unresolved external symbol __imp_ScreenToClient
+sfml-window-s.lib(WindowImplWin32.cpp.obj) : error LNK2001: unresolved external symbol __imp_ScreenToClient
+sfml-window-s.lib(VideoModeImpl.cpp.obj) : error LNK2001: unresolved external symbol __imp_EnumDisplaySettingsW
+sfml-window-s.lib(CursorImpl.cpp.obj) : error LNK2001: unresolved external symbol __imp_CreateBitmap
+sfml-window-s.lib(CursorImpl.cpp.obj) : error LNK2001: unresolved external symbol __imp_DeleteObject
+sfml-window-s.lib(CursorImpl.cpp.obj) : error LNK2001: unresolved external symbol __imp_CreateDIBSection
+sfml-window-s.lib(CursorImpl.cpp.obj) : error LNK2001: unresolved external symbol __imp_GetDC
+sfml-window-s.lib(WglContext.cpp.obj) : error LNK2001: unresolved external symbol __imp_GetDC
+sfml-window-s.lib(WindowImplWin32.cpp.obj) : error LNK2001: unresolved external symbol __imp_GetDC
+sfml-window-s.lib(CursorImpl.cpp.obj) : error LNK2001: unresolved external symbol __imp_ReleaseDC
+sfml-window-s.lib(WglContext.cpp.obj) : error LNK2001: unresolved external symbol __imp_ReleaseDC
+sfml-window-s.lib(WindowImplWin32.cpp.obj) : error LNK2001: unresolved external symbol __imp_ReleaseDC
+sfml-window-s.lib(CursorImpl.cpp.obj) : error LNK2001: unresolved external symbol __imp_LoadCursorW
+sfml-window-s.lib(WindowImplWin32.cpp.obj) : error LNK2001: unresolved external symbol __imp_LoadCursorW
+sfml-window-s.lib(CursorImpl.cpp.obj) : error LNK2001: unresolved external symbol __imp_DestroyCursor
+sfml-window-s.lib(CursorImpl.cpp.obj) : error LNK2001: unresolved external symbol __imp_CreateIconIndirect
+sfml-window-s.lib(CursorImpl.cpp.obj) : error LNK2001: unresolved external symbol __imp_CopyIcon
+sfml-window-s.lib(WglContext.cpp.obj) : error LNK2001: unresolved external symbol __imp_ChoosePixelFormat
+sfml-window-s.lib(WglContext.cpp.obj) : error LNK2001: unresolved external symbol __imp_DescribePixelFormat
+sfml-window-s.lib(WglContext.cpp.obj) : error LNK2001: unresolved external symbol __imp_GetPixelFormat
+sfml-window-s.lib(WglContext.cpp.obj) : error LNK2001: unresolved external symbol __imp_SetPixelFormat
+sfml-window-s.lib(WglContext.cpp.obj) : error LNK2001: unresolved external symbol __imp_SwapBuffers
+sfml-window-s.lib(WglContext.cpp.obj) : error LNK2001: unresolved external symbol __imp_CreateWindowExA
+sfml-window-s.lib(WglContext.cpp.obj) : error LNK2001: unresolved external symbol __imp_DestroyWindow
+sfml-window-s.lib(WindowImplWin32.cpp.obj) : error LNK2001: unresolved external symbol __imp_DestroyWindow
+sfml-window-s.lib(WglContext.cpp.obj) : error LNK2001: unresolved external symbol __imp_ShowWindow
+sfml-window-s.lib(WindowImplWin32.cpp.obj) : error LNK2001: unresolved external symbol __imp_ShowWindow
+sfml-window-s.lib(WindowImplWin32.cpp.obj) : error LNK2001: unresolved external symbol __imp_GetDeviceCaps
+sfml-window-s.lib(WindowImplWin32.cpp.obj) : error LNK2001: unresolved external symbol __imp_TrackMouseEvent
+sfml-window-s.lib(WindowImplWin32.cpp.obj) : error LNK2001: unresolved external symbol __imp_TranslateMessage
+sfml-window-s.lib(WindowImplWin32.cpp.obj) : error LNK2001: unresolved external symbol __imp_DispatchMessageW
+sfml-window-s.lib(WindowImplWin32.cpp.obj) : error LNK2001: unresolved external symbol __imp_PeekMessageW
+sfml-window-s.lib(WindowImplWin32.cpp.obj) : error LNK2001: unresolved external symbol __imp_SendMessageW
+sfml-window-s.lib(WindowImplWin32.cpp.obj) : error LNK2001: unresolved external symbol __imp_RegisterDeviceNotificationW
+sfml-window-s.lib(WindowImplWin32.cpp.obj) : error LNK2001: unresolved external symbol __imp_DefWindowProcW
+sfml-window-s.lib(WindowImplWin32.cpp.obj) : error LNK2001: unresolved external symbol __imp_CallWindowProcW
+sfml-window-s.lib(WindowImplWin32.cpp.obj) : error LNK2001: unresolved external symbol __imp_RegisterClassW
+sfml-window-s.lib(WindowImplWin32.cpp.obj) : error LNK2001: unresolved external symbol __imp_UnregisterClassW
+sfml-window-s.lib(WindowImplWin32.cpp.obj) : error LNK2001: unresolved external symbol __imp_CreateWindowExW
+sfml-window-s.lib(WindowImplWin32.cpp.obj) : error LNK2001: unresolved external symbol __imp_FlashWindowEx
+sfml-window-s.lib(WindowImplWin32.cpp.obj) : error LNK2001: unresolved external symbol __imp_SetWindowPos
+sfml-window-s.lib(WindowImplWin32.cpp.obj) : error LNK2001: unresolved external symbol __imp_GetKeyState
+sfml-window-s.lib(WindowImplWin32.cpp.obj) : error LNK2001: unresolved external symbol __imp_MapVirtualKeyW
+sfml-window-s.lib(WindowImplWin32.cpp.obj) : error LNK2001: unresolved external symbol __imp_GetCapture
+sfml-window-s.lib(WindowImplWin32.cpp.obj) : error LNK2001: unresolved external symbol __imp_SetCapture
+sfml-window-s.lib(WindowImplWin32.cpp.obj) : error LNK2001: unresolved external symbol __imp_ReleaseCapture
+sfml-window-s.lib(WindowImplWin32.cpp.obj) : error LNK2001: unresolved external symbol __imp_GetForegroundWindow
+sfml-window-s.lib(WindowImplWin32.cpp.obj) : error LNK2001: unresolved external symbol __imp_SetForegroundWindow
+sfml-window-s.lib(WindowImplWin32.cpp.obj) : error LNK2001: unresolved external symbol __imp_SetWindowTextW
+sfml-window-s.lib(WindowImplWin32.cpp.obj) : error LNK2001: unresolved external symbol __imp_GetClientRect
+sfml-window-s.lib(WindowImplWin32.cpp.obj) : error LNK2001: unresolved external symbol __imp_GetWindowRect
+sfml-window-s.lib(WindowImplWin32.cpp.obj) : error LNK2001: unresolved external symbol __imp_AdjustWindowRect
+sfml-window-s.lib(WindowImplWin32.cpp.obj) : error LNK2001: unresolved external symbol __imp_ShowCursor
+sfml-window-s.lib(WindowImplWin32.cpp.obj) : error LNK2001: unresolved external symbol __imp_SetCursor
+sfml-window-s.lib(WindowImplWin32.cpp.obj) : error LNK2001: unresolved external symbol __imp_MapWindowPoints
+sfml-window-s.lib(WindowImplWin32.cpp.obj) : error LNK2001: unresolved external symbol __imp_ClipCursor
+sfml-window-s.lib(WindowImplWin32.cpp.obj) : error LNK2001: unresolved external symbol __imp_GetWindowLongW
+sfml-window-s.lib(WindowImplWin32.cpp.obj) : error LNK2001: unresolved external symbol __imp_SetWindowLongW
+sfml-window-s.lib(WindowImplWin32.cpp.obj) : error LNK2001: unresolved external symbol __imp_GetWindowLongPtrW
+sfml-window-s.lib(WindowImplWin32.cpp.obj) : error LNK2001: unresolved external symbol __imp_SetWindowLongPtrW
+sfml-window-s.lib(WindowImplWin32.cpp.obj) : error LNK2001: unresolved external symbol __imp_GetWindowThreadProcessId
+sfml-window-s.lib(WindowImplWin32.cpp.obj) : error LNK2001: unresolved external symbol __imp_CreateIcon
+sfml-window-s.lib(WindowImplWin32.cpp.obj) : error LNK2001: unresolved external symbol __imp_DestroyIcon
+sfml-window-s.lib(WindowImplWin32.cpp.obj) : error LNK2001: unresolved external symbol __imp_ChangeDisplaySettingsW
+sfml-window-s.lib(JoystickImpl.cpp.obj) : error LNK2001: unresolved external symbol __imp_RegCloseKey
+sfml-window-s.lib(JoystickImpl.cpp.obj) : error LNK2001: unresolved external symbol __imp_RegOpenKeyExW
+sfml-window-s.lib(JoystickImpl.cpp.obj) : error LNK2001: unresolved external symbol __imp_RegQueryValueExW
+sfml-audio-s.lib(SoundBuffer.cpp.obj) : error LNK2001: unresolved external symbol __imp_alGenBuffers
+sfml-audio-s.lib(SoundStream.cpp.obj) : error LNK2001: unresolved external symbol __imp_alGenBuffers
+sfml-audio-s.lib(SoundBuffer.cpp.obj) : error LNK2001: unresolved external symbol __imp_alDeleteBuffers
+sfml-audio-s.lib(SoundStream.cpp.obj) : error LNK2001: unresolved external symbol __imp_alDeleteBuffers
+sfml-audio-s.lib(SoundBuffer.cpp.obj) : error LNK2001: unresolved external symbol __imp_alBufferData
+sfml-audio-s.lib(SoundStream.cpp.obj) : error LNK2001: unresolved external symbol __imp_alBufferData
+sfml-audio-s.lib(SoundBuffer.cpp.obj) : error LNK2001: unresolved external symbol __imp_alGetBufferi
+sfml-audio-s.lib(SoundStream.cpp.obj) : error LNK2001: unresolved external symbol __imp_alGetBufferi
+sfml-audio-s.lib(Sound.cpp.obj) : error LNK2001: unresolved external symbol __imp_alSourcef
+sfml-audio-s.lib(SoundSource.cpp.obj) : error LNK2001: unresolved external symbol __imp_alSourcef
+sfml-audio-s.lib(Sound.cpp.obj) : error LNK2001: unresolved external symbol __imp_alSourcei
+sfml-audio-s.lib(SoundStream.cpp.obj) : error LNK2001: unresolved external symbol __imp_alSourcei
+sfml-audio-s.lib(SoundSource.cpp.obj) : error LNK2001: unresolved external symbol __imp_alSourcei
+sfml-audio-s.lib(Sound.cpp.obj) : error LNK2001: unresolved external symbol __imp_alGetSourcef
+sfml-audio-s.lib(SoundStream.cpp.obj) : error LNK2001: unresolved external symbol __imp_alGetSourcef
+sfml-audio-s.lib(SoundSource.cpp.obj) : error LNK2001: unresolved external symbol __imp_alGetSourcef
+sfml-audio-s.lib(Sound.cpp.obj) : error LNK2001: unresolved external symbol __imp_alGetSourcei
+sfml-audio-s.lib(SoundStream.cpp.obj) : error LNK2001: unresolved external symbol __imp_alGetSourcei
+sfml-audio-s.lib(SoundSource.cpp.obj) : error LNK2001: unresolved external symbol __imp_alGetSourcei
+sfml-audio-s.lib(Sound.cpp.obj) : error LNK2001: unresolved external symbol __imp_alSourcePlay
+sfml-audio-s.lib(SoundStream.cpp.obj) : error LNK2001: unresolved external symbol __imp_alSourcePlay
+sfml-audio-s.lib(Sound.cpp.obj) : error LNK2001: unresolved external symbol __imp_alSourceStop
+sfml-audio-s.lib(SoundStream.cpp.obj) : error LNK2001: unresolved external symbol __imp_alSourceStop
+sfml-audio-s.lib(Sound.cpp.obj) : error LNK2001: unresolved external symbol __imp_alSourcePause
+sfml-audio-s.lib(SoundStream.cpp.obj) : error LNK2001: unresolved external symbol __imp_alSourcePause
+sfml-audio-s.lib(SoundStream.cpp.obj) : error LNK2001: unresolved external symbol __imp_alSourceQueueBuffers
+sfml-audio-s.lib(SoundStream.cpp.obj) : error LNK2001: unresolved external symbol __imp_alSourceUnqueueBuffers
+sfml-audio-s.lib(AudioDevice.cpp.obj) : error LNK2001: unresolved external symbol __imp_alIsExtensionPresent
+sfml-audio-s.lib(AudioDevice.cpp.obj) : error LNK2001: unresolved external symbol __imp_alGetEnumValue
+sfml-audio-s.lib(AudioDevice.cpp.obj) : error LNK2001: unresolved external symbol __imp_alListenerf
+sfml-audio-s.lib(AudioDevice.cpp.obj) : error LNK2001: unresolved external symbol __imp_alListener3f
+sfml-audio-s.lib(AudioDevice.cpp.obj) : error LNK2001: unresolved external symbol __imp_alListenerfv
+sfml-audio-s.lib(AudioDevice.cpp.obj) : error LNK2001: unresolved external symbol __imp_alcCreateContext
+sfml-audio-s.lib(AudioDevice.cpp.obj) : error LNK2001: unresolved external symbol __imp_alcMakeContextCurrent
+sfml-audio-s.lib(AudioDevice.cpp.obj) : error LNK2001: unresolved external symbol __imp_alcDestroyContext
+sfml-audio-s.lib(AudioDevice.cpp.obj) : error LNK2001: unresolved external symbol __imp_alcOpenDevice
+sfml-audio-s.lib(AudioDevice.cpp.obj) : error LNK2001: unresolved external symbol __imp_alcCloseDevice
+sfml-audio-s.lib(AudioDevice.cpp.obj) : error LNK2001: unresolved external symbol __imp_alcIsExtensionPresent
+sfml-audio-s.lib(SoundSource.cpp.obj) : error LNK2001: unresolved external symbol __imp_alGenSources
+sfml-audio-s.lib(SoundSource.cpp.obj) : error LNK2001: unresolved external symbol __imp_alDeleteSources
+sfml-audio-s.lib(SoundSource.cpp.obj) : error LNK2001: unresolved external symbol __imp_alSource3f
+sfml-audio-s.lib(SoundSource.cpp.obj) : error LNK2001: unresolved external symbol __imp_alGetSource3f
+sfml-audio-s.lib(SoundFileReaderFlac.cpp.obj) : error LNK2001: unresolved external symbol FLAC__stream_decoder_new
+sfml-audio-s.lib(SoundFileReaderFlac.cpp.obj) : error LNK2001: unresolved external symbol FLAC__stream_decoder_delete
+sfml-audio-s.lib(SoundFileReaderFlac.cpp.obj) : error LNK2001: unresolved external symbol FLAC__stream_decoder_get_state
+sfml-audio-s.lib(SoundFileReaderFlac.cpp.obj) : error LNK2001: unresolved external symbol FLAC__stream_decoder_init_stream
+sfml-audio-s.lib(SoundFileReaderFlac.cpp.obj) : error LNK2001: unresolved external symbol FLAC__stream_decoder_finish
+sfml-audio-s.lib(SoundFileReaderFlac.cpp.obj) : error LNK2001: unresolved external symbol FLAC__stream_decoder_process_single
+sfml-audio-s.lib(SoundFileReaderFlac.cpp.obj) : error LNK2001: unresolved external symbol FLAC__stream_decoder_process_until_end_of_metadata
+sfml-audio-s.lib(SoundFileReaderFlac.cpp.obj) : error LNK2001: unresolved external symbol FLAC__stream_decoder_skip_single_frame
+sfml-audio-s.lib(SoundFileReaderFlac.cpp.obj) : error LNK2001: unresolved external symbol FLAC__stream_decoder_seek_absolute
+sfml-audio-s.lib(SoundFileWriterFlac.cpp.obj) : error LNK2001: unresolved external symbol FLAC__stream_encoder_new
+sfml-audio-s.lib(SoundFileWriterFlac.cpp.obj) : error LNK2001: unresolved external symbol FLAC__stream_encoder_delete
+sfml-audio-s.lib(SoundFileWriterFlac.cpp.obj) : error LNK2001: unresolved external symbol FLAC__stream_encoder_set_channels
+sfml-audio-s.lib(SoundFileWriterFlac.cpp.obj) : error LNK2001: unresolved external symbol FLAC__stream_encoder_set_bits_per_sample
+sfml-audio-s.lib(SoundFileWriterFlac.cpp.obj) : error LNK2001: unresolved external symbol FLAC__stream_encoder_set_sample_rate
+sfml-audio-s.lib(SoundFileWriterFlac.cpp.obj) : error LNK2001: unresolved external symbol FLAC__stream_encoder_init_file
+sfml-audio-s.lib(SoundFileWriterFlac.cpp.obj) : error LNK2001: unresolved external symbol FLAC__stream_encoder_finish
+sfml-audio-s.lib(SoundFileWriterFlac.cpp.obj) : error LNK2001: unresolved external symbol FLAC__stream_encoder_process_interleaved
+sfml-audio-s.lib(SoundFileReaderOgg.cpp.obj) : error LNK2001: unresolved external symbol ov_clear
+sfml-audio-s.lib(SoundFileReaderOgg.cpp.obj) : error LNK2001: unresolved external symbol ov_open_callbacks
+sfml-audio-s.lib(SoundFileReaderOgg.cpp.obj) : error LNK2001: unresolved external symbol ov_test_callbacks
+sfml-audio-s.lib(SoundFileReaderOgg.cpp.obj) : error LNK2001: unresolved external symbol ov_pcm_total
+sfml-audio-s.lib(SoundFileReaderOgg.cpp.obj) : error LNK2001: unresolved external symbol ov_pcm_seek
+sfml-audio-s.lib(SoundFileReaderOgg.cpp.obj) : error LNK2001: unresolved external symbol ov_info
+sfml-audio-s.lib(SoundFileReaderOgg.cpp.obj) : error LNK2001: unresolved external symbol ov_read
+sfml-audio-s.lib(SoundFileWriterOgg.cpp.obj) : error LNK2001: unresolved external symbol ogg_stream_packetin
+sfml-audio-s.lib(SoundFileWriterOgg.cpp.obj) : error LNK2001: unresolved external symbol ogg_stream_flush
+sfml-audio-s.lib(SoundFileWriterOgg.cpp.obj) : error LNK2001: unresolved external symbol ogg_stream_init
+sfml-audio-s.lib(SoundFileWriterOgg.cpp.obj) : error LNK2001: unresolved external symbol ogg_stream_clear
+sfml-audio-s.lib(SoundFileWriterOgg.cpp.obj) : error LNK2001: unresolved external symbol vorbis_info_init
+sfml-audio-s.lib(SoundFileWriterOgg.cpp.obj) : error LNK2001: unresolved external symbol vorbis_info_clear
+sfml-audio-s.lib(SoundFileWriterOgg.cpp.obj) : error LNK2001: unresolved external symbol vorbis_comment_init
+sfml-audio-s.lib(SoundFileWriterOgg.cpp.obj) : error LNK2001: unresolved external symbol vorbis_comment_clear
+sfml-audio-s.lib(SoundFileWriterOgg.cpp.obj) : error LNK2001: unresolved external symbol vorbis_block_init
+sfml-audio-s.lib(SoundFileWriterOgg.cpp.obj) : error LNK2001: unresolved external symbol vorbis_block_clear
+sfml-audio-s.lib(SoundFileWriterOgg.cpp.obj) : error LNK2001: unresolved external symbol vorbis_dsp_clear
+sfml-audio-s.lib(SoundFileWriterOgg.cpp.obj) : error LNK2001: unresolved external symbol vorbis_analysis_init
+sfml-audio-s.lib(SoundFileWriterOgg.cpp.obj) : error LNK2001: unresolved external symbol vorbis_analysis_headerout
+sfml-audio-s.lib(SoundFileWriterOgg.cpp.obj) : error LNK2001: unresolved external symbol vorbis_analysis_buffer
+sfml-audio-s.lib(SoundFileWriterOgg.cpp.obj) : error LNK2001: unresolved external symbol vorbis_analysis_wrote
+sfml-audio-s.lib(SoundFileWriterOgg.cpp.obj) : error LNK2001: unresolved external symbol vorbis_analysis_blockout
+sfml-audio-s.lib(SoundFileWriterOgg.cpp.obj) : error LNK2001: unresolved external symbol vorbis_analysis
+sfml-audio-s.lib(SoundFileWriterOgg.cpp.obj) : error LNK2001: unresolved external symbol vorbis_bitrate_addblock
+sfml-audio-s.lib(SoundFileWriterOgg.cpp.obj) : error LNK2001: unresolved external symbol vorbis_bitrate_flushpacket
+sfml-audio-s.lib(SoundFileWriterOgg.cpp.obj) : error LNK2001: unresolved external symbol vorbis_encode_init_vbr
+C:\Users\MoDo\source\repos\Project3\x64\Release\Project3.exe : fatal error LNK1120: 136 unresolved externals

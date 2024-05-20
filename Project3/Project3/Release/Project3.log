@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\MENA\OneDrive\Desktop\Project3\Project3\main.cpp(3,10): fatal  error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  menu.cpp
+C:\Users\MENA\OneDrive\Desktop\Project3\Project3\menu.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\MENA\OneDrive\Desktop\Project3\Project3\menu.h(2,10): fatal  error C1083: Cannot open include file: 'sfml/Graphics.hpp': No such file or directory

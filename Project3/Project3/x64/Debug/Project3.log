@@ -1,0 +1,692 @@
+﻿  main.cpp
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(46,23): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(61,23): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(70,23): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(119,59): warning C4244: '=': conversion from 'sf::Int32' to 'float', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(125,207): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(125,140): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(125,98): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(137,168): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(137,131): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(137,60): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(283,46): warning C4244: '=': conversion from 'sf::Int32' to 'float', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(288,205): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(288,150): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(288,116): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(288,79): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(296,172): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(296,141): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(296,84): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(296,47): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(304,158): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(304,103): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(304,69): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(304,57): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(309,157): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(309,126): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(309,69): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(309,57): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(756,63): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(756,48): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(772,63): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(772,48): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(788,63): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(788,48): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(789,37): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(908,68): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(908,53): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(920,68): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(920,53): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(921,42): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(929,68): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(929,53): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(930,42): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(938,68): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(938,53): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(939,42): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(950,68): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(950,53): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(951,42): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(959,68): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(959,53): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(960,42): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(968,68): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(968,53): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(969,42): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(980,68): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(980,53): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(989,68): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(989,53): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(998,68): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(998,53): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(999,42): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(1189,28): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(1201,52): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(1201,38): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(1221,31): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(1230,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(1239,33): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(1249,38): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(1300,22): warning C4244: 'initializing': conversion from 'sf::Int32' to 'float', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(1348,42): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(1356,19): warning C4244: 'initializing': conversion from 'sf::Int32' to 'float', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(1373,25): warning C4244: 'initializing': conversion from 'sf::Int32' to 'float', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(1391,26): warning C4244: 'initializing': conversion from 'sf::Int32' to 'float', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(1398,37): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(1409,27): warning C4244: 'initializing': conversion from 'sf::Int32' to 'float', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(1622,77): warning C4244: '=': conversion from 'sf::Int32' to 'float', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(1623,71): warning C4244: '=': conversion from 'sf::Int32' to 'float', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(1626,65): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(1633,82): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(1638,74): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(1721,59): warning C4244: '=': conversion from 'sf::Int32' to 'float', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(1744,37): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(1753,37): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(1787,117): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(1789,84): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(1809,119): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(1811,85): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(1831,117): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(1833,84): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(1978,86): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(1978,67): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(2005,89): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(2005,71): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(2019,82): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(2019,64): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(2036,69): warning C4244: '=': conversion from 'sf::Int32' to 'float', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(2137,64): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(2138,72): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(2340,28): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(2352,52): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(2352,38): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(2382,34): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(2396,39): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(2399,40): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(2447,22): warning C4244: 'initializing': conversion from 'sf::Int32' to 'float', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(2493,42): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(2501,19): warning C4244: 'initializing': conversion from 'sf::Int32' to 'float', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(2518,25): warning C4244: 'initializing': conversion from 'sf::Int32' to 'float', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(2648,61): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(2668,59): warning C4244: '=': conversion from 'sf::Int32' to 'float', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(2704,117): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(2706,84): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(2764,69): warning C4244: '=': conversion from 'sf::Int32' to 'float', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(3017,28): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(3029,52): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(3029,38): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(3048,39): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(3057,39): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(3066,33): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(3076,38): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(3127,22): warning C4244: 'initializing': conversion from 'sf::Int32' to 'float', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(3172,42): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(3180,19): warning C4244: 'initializing': conversion from 'sf::Int32' to 'float', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(3188,37): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(3199,31): warning C4244: 'initializing': conversion from 'sf::Int32' to 'float', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(3208,38): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(3220,29): warning C4244: 'initializing': conversion from 'sf::Int32' to 'float', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(3229,37): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(3240,27): warning C4244: 'initializing': conversion from 'sf::Int32' to 'float', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(3313,93): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(3313,64): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(3314,93): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(3314,64): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(3315,93): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(3315,64): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(3413,59): warning C4244: '=': conversion from 'sf::Int32' to 'float', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(3436,37): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(3445,37): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(3480,117): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(3482,84): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(3502,119): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(3504,85): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(3524,117): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(3526,84): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(3636,95): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(3636,76): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(3648,92): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(3648,74): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(3662,88): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(3662,70): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(3681,69): warning C4244: '=': conversion from 'sf::Int32' to 'float', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(3927,28): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(3939,52): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(3939,38): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(3959,37): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(3968,39): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(3977,33): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(3987,38): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(4038,22): warning C4244: 'initializing': conversion from 'sf::Int32' to 'float', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(4084,42): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(4092,19): warning C4244: 'initializing': conversion from 'sf::Int32' to 'float', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(4099,37): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(4110,31): warning C4244: 'initializing': conversion from 'sf::Int32' to 'float', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(4119,38): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(4131,29): warning C4244: 'initializing': conversion from 'sf::Int32' to 'float', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(4140,37): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(4151,27): warning C4244: 'initializing': conversion from 'sf::Int32' to 'float', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(4328,59): warning C4244: '=': conversion from 'sf::Int32' to 'float', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(4351,37): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(4360,37): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(4395,117): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(4397,84): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(4417,119): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(4419,85): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(4439,117): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(4441,84): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(4551,95): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(4551,76): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(4563,92): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(4563,74): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(4577,88): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(4577,70): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(4596,69): warning C4244: '=': conversion from 'sf::Int32' to 'float', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(5170,61): warning C4244: '=': conversion from 'sf::Int32' to 'float', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(5177,76): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(5177,9): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(5176,99): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(5190,75): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(5190,38): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(5189,61): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(5196,26): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(5204,61): warning C4244: '=': conversion from 'sf::Int32' to 'float', possible loss of data
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(5211,76): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(5211,9): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(5210,99): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(5224,75): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(5224,38): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(5223,61): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(5249,79): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(5258,79): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(5267,79): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\MoDo\source\repos\Project3\Project3\main.cpp(5276,79): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Project3.vcxproj -> C:\Users\MoDo\source\repos\Project3\x64\Debug\Project3.exe
